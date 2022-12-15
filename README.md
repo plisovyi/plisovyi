@@ -1,6 +1,9 @@
-👋 Hi, I’m @plisovyi
+👋 Hi, I’m @plisovyi.
 
-<!---
-plisovyi/plisovyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I live in 🇮🇱, but was born and lived most of my life in 🇺🇦.
+
+I work in @Wix on Codux, visual IDE for ⚛️.
+
+I use Ukrainian, English, Hebrew and Typescript as work languages.
+
+I have no business with anything or anyone 🐷🐶 from ruzzia, they can fuck off.
