@@ -4,8 +4,6 @@
 
 I live in 🇮🇱, but was born and lived most of my life in 🇺🇦.
 
-I work in @Wix on [Codux](https://www.codux.com/), visual IDE for ⚛️.
+I work in @Wix on [Codux](https://www.codux.com/), a visual IDE for ⚛️.
 
-I use Ukrainian, English, Hebrew and Typescript as work languages.
-
-I have no business with anything or anyone 🐷🐶 from ruzzia, they can fuck off.
+I use Ukrainian, English, Hebrew, and Typescript as work languages.
